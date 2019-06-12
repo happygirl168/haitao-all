@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+img{
+    border: 0px;
+    margin: 0px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:link{
+    color: black;
+}
+// 消除a和img标签的空隙
+a,img{
+     vertical-align: top;
+}
+
+.clearfix {
+        *zoom: 1;
+ }
+    /* 清除浮动  */
+    
+.clearfix:after {
+        display: block;
+        clear: both;
+        visibility: hidden;
+        content: "";
+        height: 0;
+}
+
+//清除em,i自带的倾斜样式
+em,i{
+    font-style: normal;
+}

@@ -1,0 +1,1116 @@
+{
+	"shopinfo": [
+		{
+			"brand_id": 100001,
+			"brand_name":"宝姿",
+			"brand_ad":"今日大牌—宝姿集团男女装混合专场",
+			"itemId": 100011,
+			"itme_name": "2019新款牛仔宽松时尚短裤女",
+			"new_price": 129,
+			"old_price": 389,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/7db2ee827fd22348259ecf1ac343f8b3.jpg",
+			"type": "女款短裤",
+			"typeid": 101,
+			"itemParams":{
+				"code": "692JJ8100000F20 ",
+				"size": ["23", "24", "25", "26","27","28"],
+				"price": 452,
+				"style": "阔腿裤",
+				"season": "夏",
+				"type": "高腰阔腿裤",
+				"color": "纯色",
+				"fabric":"纯棉",
+				"material":"面料:棉100%(含微量其他纤维)袋布:棉100%",
+				"occasion": "通勤",
+				"people": "青年",
+				"brand_name": "宝姿",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/797f43f21101768b72f9cc2af0774f2e.png",
+				"item_name":"2019新款夏季一字领喇叭袖宽松高腰白色吊带连衣裙女"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/7db2ee827fd22348259ecf1ac343f8b3.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/6b942d97f07fa0a3058044ec2dace90e.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/4486396c3db0b9f5702367237d7dacff.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/04ac6285c39f3c7562dab64e1469bee5.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/fd7eba75e9affa9fdcea6bf0cb70f97d.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/7db2ee827fd22348259ecf1ac343f8b3.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/6b942d97f07fa0a3058044ec2dace90e.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/4486396c3db0b9f5702367237d7dacff.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/04ac6285c39f3c7562dab64e1469bee5.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/fd7eba75e9affa9fdcea6bf0cb70f97d.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/32413615a2cbc2f3326f8f20d83d2b47.jpg"
+			]
+		}, {
+			"brand_id": 100001,
+			"brand_name":"宝姿",
+			"brand_ad":"今日大牌—宝姿集团男女装混合专场",
+			"itemId": 100012,
+			"itme_name": "2019夏季新款纯棉钉珠直筒裤热裤短裤子毛边浅色女士牛仔裙裤",
+			"new_price": 1690,
+			"old_price": 2110,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/0dc27add24b121c9057ae076cd0ff609.jpg",
+			"type": "牛仔裙",
+			"typeid": 102,
+			"itemParams":{
+				"code": "692JJ0400000F25 ",
+				"size": ["XS", "S", "M", "L"],
+				"price": 1690,
+				"style": "直筒裤",
+				"season": "夏",
+				"type": "中腰直筒裤",
+				"color": "纯色",
+				"fabric":"纯棉",
+				"material":"面料:棉100%(含微量其他纤维)袋布:棉100%",
+				"occasion": "通勤",
+				"people": "青年",
+				"brand_name": "宝姿",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/797f43f21101768b72f9cc2af0774f2e.png",
+				"item_name":"2019夏季新款纯棉钉珠直筒裤热裤短裤子毛边浅色女士牛仔裙裤"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/0dc27add24b121c9057ae076cd0ff609.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/d09b2cd8e518d9b480dff2fa3a15991f.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b16af8b67cdc06aa78217f4214cb0a32.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/bd0f5fc045cef1c109be950db3fa6e31.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/867fb3e1fe97f8de5c45b179c3de8807.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/0dc27add24b121c9057ae076cd0ff609.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/d09b2cd8e518d9b480dff2fa3a15991f.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b16af8b67cdc06aa78217f4214cb0a32.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/bd0f5fc045cef1c109be950db3fa6e31.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/867fb3e1fe97f8de5c45b179c3de8807.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/32413615a2cbc2f3326f8f20d83d2b47.jpg"
+			]
+		}, {
+			"brand_id": 100001,
+			"brand_name":"宝姿",
+			"brand_ad":"今日大牌—宝姿集团男女装混合专场",
+			"itemId": 100013,
+			"itme_name": "秋季纯棉字母钉珠背带裤长裤子宽松牛仔裤女",
+			"new_price": 658,
+			"old_price": 1200,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/93732d15c7e1e19653e94f94c6083d0d.jpg",
+			"type": "女款牛仔裤",
+			"typeid": 103,
+			"itemParams":{
+				"code": "692JJ0400000F25 ",
+				"size": ["XS", "S", "M", "L"],
+				"price": 1690,
+				"style": "直筒裤",
+				"season": "夏",
+				"type": "中腰直筒裤",
+				"color": "纯色",
+				"fabric":"纯棉",
+				"material":"面料:棉100%(含微量其他纤维)袋布:棉100%",
+				"occasion": "通勤",
+				"people": "青年",
+				"brand_name": "宝姿",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/797f43f21101768b72f9cc2af0774f2e.png",
+				"item_name":"秋季纯棉字母钉珠背带裤长裤子宽松牛仔裤女"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/93732d15c7e1e19653e94f94c6083d0d.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/4afccdfbd6cf4831223085596a5de162.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/807c19f82ea3fb52bb226ef4f94172b2.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/8dfdc64fdc334e4fbbe5702506f94eca.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ae66b7fe69203ada6d46c59dfd5ce372.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/93732d15c7e1e19653e94f94c6083d0d.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/4afccdfbd6cf4831223085596a5de162.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/807c19f82ea3fb52bb226ef4f94172b2.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/8dfdc64fdc334e4fbbe5702506f94eca.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ae66b7fe69203ada6d46c59dfd5ce372.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/32413615a2cbc2f3326f8f20d83d2b47.jpg"
+			]
+		}, {
+			"brand_id": 100001,
+			"brand_name":"宝姿",
+			"brand_ad":"今日大牌—宝姿集团男女装混合专场",
+			"itemId": 100014,
+			"itme_name": "时尚元素牛仔短裙",
+			"new_price": 343,
+			"old_price": 490,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/e457f28c4eacd3daa06469968ff2866a.jpg",
+			"type": "半身裙",
+			"typeid": 104,
+			"itemParams":{
+				"code": "692JJ0400000F25 ",
+				"size": ["XS", "S", "M", "L"],
+				"price": 1690,
+				"style": "阔腿裤",
+				"season": "夏",
+				"type": "中腰直筒裤",
+				"color": "纯色",
+				"fabric":"纯棉",
+				"material":"面料:棉100%(含微量其他纤维)袋布:棉100%",
+				"occasion": "通勤",
+				"people": "青年",
+				"brand_name": "宝姿",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/797f43f21101768b72f9cc2af0774f2e.png",
+				"item_name":"时尚元素牛仔短裙"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/e457f28c4eacd3daa06469968ff2866a.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/166bd72a38aeb90241687b25313e88aa.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/af74e8b3e1550c6ec2a8ee6355bd0e36.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b5ae416636191c9ec150edd9de13a1e8.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/353c7eda0e32279e41862592713b9182.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/e457f28c4eacd3daa06469968ff2866a.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/166bd72a38aeb90241687b25313e88aa.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/af74e8b3e1550c6ec2a8ee6355bd0e36.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b5ae416636191c9ec150edd9de13a1e8.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/353c7eda0e32279e41862592713b9182.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/32413615a2cbc2f3326f8f20d83d2b47.jpg"
+			]
+		}, {
+			"brand_id": 100001,
+			"brand_name":"宝姿",
+			"brand_ad":"今日大牌—宝姿集团男女装混合专场",
+			"itemId": 100015,
+			"itme_name": "春季棉质字母印花宽松短袖T恤女",
+			"new_price": 343,
+			"old_price": 490,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb58fafe69f4afa2db8fd871f139c98a.jpg",
+			"type": "女款T恤",
+			"typeid": 105,
+			"itemParams":{
+				"code": "681SJ9321000A28 ",
+				"size": ["XS", "S", "M", "L"],
+				"price": 1690,
+				"style": "套头",
+				"season": "春",
+				"type": "女款T恤",
+				"color": "纯色",
+				"fabric":"纯棉",
+				"material":"面料:棉97.0% 氨纶3.0%",
+				"occasion": "通勤",
+				"people": "青年",
+				"brand_name": "宝姿",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/797f43f21101768b72f9cc2af0774f2e.png",
+				"item_name":"春季棉质字母印花宽松短袖T恤女"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb58fafe69f4afa2db8fd871f139c98a.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/0cca4d95d269c3c8b4b82d8ae8afc248.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/921f032f8043624ba5a732a28e76938a.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b9808c82876f9ac3b3d224e21d486779.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ebe9e87f49d89494759e7f0ee12e6dd4.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb58fafe69f4afa2db8fd871f139c98a.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/0cca4d95d269c3c8b4b82d8ae8afc248.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/921f032f8043624ba5a732a28e76938a.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b5ae416636191c9ec150edd9de13a1e8.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ebe9e87f49d89494759e7f0ee12e6dd4.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/32413615a2cbc2f3326f8f20d83d2b47.jpg"
+			]
+		}, {
+			"brand_id": 100001,
+			"brand_name":"宝姿",
+			"brand_ad":"今日大牌—宝姿集团男女装混合专场",
+			"itemId": 100016,
+			"itme_name": "2019夏季新款纯棉V领字母亮片钉珠上衣女士短袖T恤",
+			"new_price": 343,
+			"old_price": 490,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/d31f6f2f47c5533169c0132d1304fafa.jpg",
+			"type": "女款T恤",
+			"typeid": 105,
+			"itemParams":{
+				"code": "692SJ8380000E32",
+				"size": ["XS", "S", "M"],
+				"price": 1690,
+				"style": "亮片",
+				"season": "春",
+				"type": "女款T恤",
+				"color": "纯色",
+				"fabric":"纯棉",
+				"material":"面料:棉97.0% 氨纶3.0%",
+				"occasion": "通勤",
+				"people": "青年",
+				"brand_name": "宝姿",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/797f43f21101768b72f9cc2af0774f2e.png",
+				"item_name":"2019夏季新款纯棉V领字母亮片钉珠上衣女士短袖T恤"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/d31f6f2f47c5533169c0132d1304fafa.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/1b9649d45af21e600bc7fe0ad336b679.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/cd5f59062f8af04a709f2800d850b785.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/83a9cffd5cd5c4db1c87100317407d91.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/cd9b30b4be6e8661ae330bee03897fc4.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/d31f6f2f47c5533169c0132d1304fafa.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/1b9649d45af21e600bc7fe0ad336b679.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/cd5f59062f8af04a709f2800d850b785.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/83a9cffd5cd5c4db1c87100317407d91.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/cd9b30b4be6e8661ae330bee03897fc4.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/32413615a2cbc2f3326f8f20d83d2b47.jpg"
+			]
+		}, {
+			"brand_id": 100001,
+			"brand_name":"宝姿",
+			"brand_ad":"今日大牌—宝姿集团男女装混合专场",
+			"itemId": 100017,
+			"itme_name": "夏季一字领层次袖口短袖T恤女",
+			"new_price": 343,
+			"old_price": 490,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/e74d6c3890139802165361875733c206.jpg",
+			"type": "女款上衣",
+			"typeid": 107,
+			"itemParams":{
+				"code": "681SJ9321000A28 ",
+				"size": ["XS", "S", "M", "L"],
+				"price": 1690,
+				"style": "套头",
+				"season": "春",
+				"type": "女款T恤",
+				"color": "纯色",
+				"fabric":"纯棉",
+				"material":"面料:棉97.0% 氨纶3.0%",
+				"occasion": "通勤",
+				"people": "青年",
+				"brand_name": "宝姿",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/797f43f21101768b72f9cc2af0774f2e.png",
+				"item_name":"夏季一字领层次袖口短袖T恤女"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/e74d6c3890139802165361875733c206.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/784e1d68b52eab4f9f24cd0e6671710a.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/3d755746e2037d06d60601189d2d2bf9.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/e74d6c3890139802165361875733c206.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/784e1d68b52eab4f9f24cd0e6671710a.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/3d755746e2037d06d60601189d2d2bf9.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/32413615a2cbc2f3326f8f20d83d2b47.jpg"
+			]
+		}, {
+			"brand_id": 100001,
+			"brand_name":"宝姿",
+			"brand_ad":"今日大牌—宝姿集团男女装混合专场",
+			"itemId": 100018,
+			"itme_name": "2019新款夏季一字领喇叭袖宽松高腰白色吊带连衣裙女",
+			"stock":137,
+			"new_price": 343,
+			"old_price": 490,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/efd44929c70a8d5735e541cff5ef4129.jpg",
+			"type": "连衣裙",
+			"typeid": 108,
+			"itemParams":{
+				"code": "681JJ7250200G24",
+				"size": ["23", "25", "26", "27","28","29","30","31"],
+				"price": 452,
+				"style": "休闲",
+				"season": "春",
+				"type": "连衣裙",
+				"color": "纯色",
+				"fabric":"纯棉",
+				"material":"棉100%网布,聚酯纤维100%袋布,棉100%花边,聚酯纤维100%",
+				"occasion": "通勤",
+				"people": "青年",
+				"brand_name": "宝姿",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/5690f7709eeb022e279f64c7ed9bbe03.png",
+				"item_name":"2019新款夏季一字领喇叭袖宽松高腰白色吊带连衣裙女"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/a68795d1f41b41cc4ea96438fa53a8a8.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/5946d42d289fc907bf43e540b654bd00.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eaa47d11e07e612319cd5446fb988520.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/135a1faa6cd25bd7726e89694f9d83eb.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/128d6e111bd79f812d75933a1317309d.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/a68795d1f41b41cc4ea96438fa53a8a8.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/5946d42d289fc907bf43e540b654bd00.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eaa47d11e07e612319cd5446fb988520.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/135a1faa6cd25bd7726e89694f9d83eb.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/128d6e111bd79f812d75933a1317309d.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/32413615a2cbc2f3326f8f20d83d2b47.jpg"
+			]
+		}, {
+			"brand_id": 100002,
+			"brand_name":"秋水伊人",
+			"brand_ad":"今日大牌—秋水伊人集团男女装混合专场",
+			"itemId": 100021,
+			"itme_name": "秋季纯棉中腰钉珠毛边直筒裤长裤牛仔裤女",
+			"new_price": 693,
+			"old_price": 990,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/8b86163cb42091ca665e37b75bfeedd0.jpg",
+			"type": "女款牛仔裤",
+			"typeid": 101,
+			"itemParams":{
+				"code": "683JJ0760000F25 ",
+				"size": ["23", "25", "26", "27","28","29","30","31"],
+				"price": 452,
+				"style": "休闲",
+				"season": "春",
+				"type": "牛仔裤",
+				"color": "纯色",
+				"fabric":"纯棉",
+				"material":"棉100%网布,聚酯纤维100%袋布,棉100%花边,聚酯纤维100%",
+				"occasion": "通勤",
+				"people": "青年",
+				"brand_name": "宝姿",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/5690f7709eeb022e279f64c7ed9bbe03.png",
+				"item_name":"秋季纯棉中腰钉珠毛边直筒裤长裤牛仔裤女"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/8b86163cb42091ca665e37b75bfeedd0.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/478144d4e74eeb6e85269f638cd6f608.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/d054555cba865b44b74567404008c671.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/a2f43d2e72f775f38a0c7ff152fa1fc1.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/8b86163cb42091ca665e37b75bfeedd0.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/478144d4e74eeb6e85269f638cd6f608.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/d054555cba865b44b74567404008c671.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/a2f43d2e72f775f38a0c7ff152fa1fc1.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/32413615a2cbc2f3326f8f20d83d2b47.jpg"
+			]
+		}, {
+			"brand_id": 100002,
+			"brand_name":"秋水伊人",
+			"brand_ad":"今日大牌—秋水伊人集团男女装混合专场",
+			"itemId": 100022,
+			"itme_name": "2019新款夏季高腰阔腿裤显瘦百搭修身热裤牛仔短裤女",
+			"new_price": 1043,
+			"old_price": 1490,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/984e518b8e73ec59d4884dd1b71a050e.jpg",
+			"type": "女款短裤",
+			"typeid": 102,
+			"itemParams":{
+				"code": "692JJ8180000F20",
+				"size": ["XS", "M", "L", "XL"],
+				"price": 693,
+				"style": "通勤",
+				"season": "夏",
+				"type": "高腰直筒裤",
+				"color": "纯色",
+				"fabric":"棉",
+				"material":"面料:棉85.4% 聚酯纤维11.5% 氨纶3.1%袋布:棉100%",
+				"occasion": "通勤",
+				"people": "青年",
+				"brand_name": "秋水尹人",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/a629b9d4f685d5848ec7a940f1f20ac3.jpg",
+				"item_name":"2019新款夏季一字领喇叭袖宽松高腰白色吊带连衣裙女"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/72847e03479029d0e5a66ad8ef095a4f.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/cf515aa06527046a1f371a7fcef32c41.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/902ba6e30badb721fa0badec31c24736.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/e937a56d481a20a6fc716644696b5d92.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/6d3b1702ad68adc5cec1948c1e52e23f.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/72847e03479029d0e5a66ad8ef095a4f.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/cf515aa06527046a1f371a7fcef32c41.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/902ba6e30badb721fa0badec31c24736.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/e937a56d481a20a6fc716644696b5d92.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/6d3b1702ad68adc5cec1948c1e52e23f.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/32413615a2cbc2f3326f8f20d83d2b47.jpg"
+			]
+		}, {
+			"brand_id": 100002,
+			"brand_name":"秋水伊人",
+			"brand_ad":"今日大牌—秋水伊人集团男女装混合专场",
+			"itemId": 100023,
+			"itme_name": "春季中腰棉质提臀紧身裤铅笔裤长裤牛仔裤女",
+			"new_price": 995,
+			"old_price": 1990,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ae0995e4188991f7f7ad8ceea0884d98.jpg",
+			"type": "女款牛仔裤",
+			"typeid": 103,
+			"itemParams":{
+				"code": "683JJ0760000F25 ",
+				"size": ["23", "25", "26", "27","28","29","30","31"],
+				"price": 452,
+				"style": "休闲",
+				"season": "春",
+				"type": "牛仔裤",
+				"color": "纯色",
+				"fabric":"纯棉",
+				"material":"棉100%网布,聚酯纤维100%袋布,棉100%花边,聚酯纤维100%",
+				"occasion": "通勤",
+				"people": "青年",
+				"brand_name": "宝姿",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/5690f7709eeb022e279f64c7ed9bbe03.png",
+				"item_name":"春季中腰棉质提臀紧身裤铅笔裤长裤牛仔裤女"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/8b86163cb42091ca665e37b75bfeedd0.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b3d7fe62588c50af71b025f34d711e76.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/e5a3aa449de7874f438104cfeb845795.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/8b86163cb42091ca665e37b75bfeedd0.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b3d7fe62588c50af71b025f34d711e76.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/e5a3aa449de7874f438104cfeb845795.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/32413615a2cbc2f3326f8f20d83d2b47.jpg"
+			]
+		}, {
+			"brand_id": 100002,
+			"brand_name":"秋水伊人",
+			"brand_ad":"今日大牌—秋水伊人集团男女装混合专场",
+			"itemId": 100024,
+			"itme_name": "2019夏季新款纯棉印花破洞毛边热裤阔腿女士牛仔短裤",
+			"new_price": 623,
+			"old_price": 890,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/c601cd04c1dd26637f919e5429a27cf0.jpg",
+			"type": "女款牛仔裤",
+			"typeid": 104,
+			"itemParams":{
+				"code": "692JJ2360000F25",
+				"size": ["26", "27","28"],
+				"price": 452,
+				"style": "休闲",
+				"season": "春",
+				"type": "牛仔裤",
+				"color": "纯色",
+				"fabric":"纯棉",
+				"material":"棉100%网布,聚酯纤维100%袋布,棉100%花边,聚酯纤维100%",
+				"occasion": "通勤",
+				"people": "青年",
+				"brand_name": "宝姿",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/5690f7709eeb022e279f64c7ed9bbe03.png",
+				"item_name":"2019夏季新款纯棉印花破洞毛边热裤阔腿女士牛仔短裤"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/c601cd04c1dd26637f919e5429a27cf0.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/e74111c3e9ca7a674beea9c58eab8641.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/1f11b4d2323b40e9ea33200c8b842f7c.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/78e4991c352916e1a12a67857461c68f.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/c601cd04c1dd26637f919e5429a27cf0.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/e74111c3e9ca7a674beea9c58eab8641.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/1f11b4d2323b40e9ea33200c8b842f7c.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/78e4991c352916e1a12a67857461c68f.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/32413615a2cbc2f3326f8f20d83d2b47.jpg"
+			]
+		}, {
+			"brand_id": 100002,
+			"brand_name":"秋水伊人",
+			"brand_ad":"今日大牌—秋水伊人集团男女装混合专场",
+			"itemId": 100025,
+			"itme_name": "2019新款春装网纱拼牛仔百褶裙高腰长裙子半身裙女",
+			"new_price": 1049,
+			"old_price": 1090,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ffc6056e796f034c1c365dc8ff586c2c.jpg",
+			"type": "半身裙",
+			"typeid": 105,
+			"itemParams":{
+				"code": "691KJ1351000F20",
+				"size": ["XS","S","M","L"],
+				"price": 1049,
+				"style": "休闲",
+				"season": "春",
+				"type": "背带裤",
+				"color": "纯色",
+				"fabric":"纯棉",
+				"material":"棉100%网布,聚酯纤维100%袋布,棉100%花边,聚酯纤维100%",
+				"occasion": "通勤",
+				"people": "青年",
+				"brand_name": "宝姿",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/5690f7709eeb022e279f64c7ed9bbe03.png",
+				"item_name":"2019新款春装网纱拼牛仔百褶裙高腰长裙子半身裙女"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/c601cd04c1dd26637f919e5429a27cf0.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/6f67e363eca71521a57586cae661b2f6.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/3a9e9766ad5c4715a64f5820fa08f312.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/f95f0a12156cf36539fadf7d423b11d3.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/c601cd04c1dd26637f919e5429a27cf0.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/6f67e363eca71521a57586cae661b2f6.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/3a9e9766ad5c4715a64f5820fa08f312.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/f95f0a12156cf36539fadf7d423b11d3.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/32413615a2cbc2f3326f8f20d83d2b47.jpg"
+			]
+		}, {
+			"brand_id": 100002,
+			"brand_name":"秋水伊人",
+			"brand_ad":"今日大牌—秋水伊人集团男女装混合专场",
+			"itemId": 100026,
+			"itme_name": "2019新款春装纯棉露肩条纹宽松长袖女式衬衫",
+			"new_price": 623,
+			"old_price": 890,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/6a0e13731be901271c48ae9a592d5cec.jpg",
+			"type": "女款衬衫",
+			"typeid": 106,
+			"itemParams":{
+				"code": "691XJ7750000F13",
+				"size": ["XS"],
+				"price": 452,
+				"style": "休闲",
+				"season": "春",
+				"type": "背带裤",
+				"color": "纯色",
+				"fabric":"纯棉",
+				"material":"棉100%网布,聚酯纤维100%袋布,棉100%花边,聚酯纤维100%",
+				"occasion": "通勤",
+				"people": "青年",
+				"brand_name": "宝姿",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/5690f7709eeb022e279f64c7ed9bbe03.png",
+				"item_name":"夏季女色牛仔背带裤连体裤女"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/6a0e13731be901271c48ae9a592d5cec.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b43fc00bc3f4637e29a8ab925f27d1a5.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/0790ba71bb2c0268ddb68e636f37b58f.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/18372cdf142a9b4ffbbe24fd0ee8e952.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/6a0e13731be901271c48ae9a592d5cec.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b43fc00bc3f4637e29a8ab925f27d1a5.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/0790ba71bb2c0268ddb68e636f37b58f.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/18372cdf142a9b4ffbbe24fd0ee8e952.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/32413615a2cbc2f3326f8f20d83d2b47.jpg"
+			]
+		}, {
+			"brand_id": 100002,
+			"brand_name":"秋水伊人",
+			"brand_ad":"今日大牌—秋水伊人集团男女装混合专场",
+			"itemId": 100027,
+			"itme_name": "夏季女色牛仔背带裤连体裤女",
+			"new_price": 623,
+			"old_price": 890,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/d1010db0f9343a2bd4b73dc21b4d2987.jpg",
+			"type": "背带裤",
+			"typeid": 107,
+			"itemParams":{
+				"code": "682PJ2530000E07 ",
+				"size": ["XS"],
+				"price": 452,
+				"style": "休闲",
+				"season": "春",
+				"type": "背带裤",
+				"color": "纯色",
+				"fabric":"纯棉",
+				"material":"棉100%网布,聚酯纤维100%袋布,棉100%花边,聚酯纤维100%",
+				"occasion": "通勤",
+				"people": "青年",
+				"brand_name": "宝姿",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/5690f7709eeb022e279f64c7ed9bbe03.png",
+				"item_name":"夏季女色牛仔背带裤连体裤女"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/c601cd04c1dd26637f919e5429a27cf0.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/991ba39c1f3a190ba105ba831dfb1e90.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/e20906cc15247b4d4a2dc45e9712b891.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/fa72759a0f02beada5fc98183d9c4050.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/c601cd04c1dd26637f919e5429a27cf0.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/991ba39c1f3a190ba105ba831dfb1e90.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/e20906cc15247b4d4a2dc45e9712b891.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/fa72759a0f02beada5fc98183d9c4050.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/32413615a2cbc2f3326f8f20d83d2b47.jpg"
+			]
+		}, {
+			"brand_id": 100002,
+			"brand_name":"秋水伊人",
+			"brand_ad":"今日大牌—秋水伊人集团男女装混合专场",
+			"itemId": 100028,
+			"itme_name": "2019春季新款纯色百褶裙长裙子女士高腰半身裙",
+			"new_price": 623,
+			"old_price": 890,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/c65710b1eaab358defee76c15aeb148a.jpg",
+			"type": "半身裙",
+			"typeid": 108,
+			"itemParams":{
+				"code": "691KJ0900000A28",
+				"size": ["XS"],
+				"price": 452,
+				"style": "休闲",
+				"season": "春",
+				"type": "背带裤",
+				"color": "纯色",
+				"fabric":"纯棉",
+				"material":"棉100%网布,聚酯纤维100%袋布,棉100%花边,聚酯纤维100%",
+				"occasion": "通勤",
+				"people": "青年",
+				"brand_name": "宝姿",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/5690f7709eeb022e279f64c7ed9bbe03.png",
+				"item_name":"夏季女色牛仔背带裤连体裤女"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/c65710b1eaab358defee76c15aeb148a.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b0bae150ea50bb651e5a33b01118f63c.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/4dd1869e3cfd7a0b0cd66dd51622d6d8.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/976c93a69804a6487a2df6167fbcf8f0.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/c65710b1eaab358defee76c15aeb148a.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b0bae150ea50bb651e5a33b01118f63c.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/4dd1869e3cfd7a0b0cd66dd51622d6d8.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/976c93a69804a6487a2df6167fbcf8f0.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/32413615a2cbc2f3326f8f20d83d2b47.jpg"
+			]
+		},
+		{
+			"brand_id": 100002,
+			"brand_name":"秋水伊人",
+			"brand_ad":"今日大牌—秋水伊人集团男女装混合专场",
+			"itemId": 100029,
+			"itme_name": "2019新款夏季衣香丽影碎花雪纺连衣裙修身中长款百褶裙",
+			"new_price": 279,
+			"old_price": 349,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/2fc714b0a3d61fb06d62b2c7ae7f6e17.jpg",
+			"type": "连衣裙",
+			"typeid": 108,
+			"itemParams":{
+				"code": "99031512713 ",
+				"size": ["XS", "S", "M", "L","XL"],
+				"price": 279,
+				"style": "通勤",
+				"season": "春",
+				"type": "连衣裙",
+				"color": "花色",
+				"fabric":"雪纺",
+				"material":"棉100%网布,聚酯纤维100%袋布,棉100%花边,聚酯纤维100%",
+				"occasion": "通勤",
+				"people": "通用",
+				"brand_name": "秋水尹人",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/614cbbf0911fa223a6093a9bbfc9322b.png",
+				"item_name":"【2019夏装新款】衣香丽影碎花雪纺连衣裙修身中长款百褶裙"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/2fc714b0a3d61fb06d62b2c7ae7f6e17.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/386bd7ac1b6739d1a401f294fd08a402.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/33d57d1ba11eef630dcf98413259c3ee.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/2fc714b0a3d61fb06d62b2c7ae7f6e17.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/386bd7ac1b6739d1a401f294fd08a402.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/33d57d1ba11eef630dcf98413259c3ee.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/32413615a2cbc2f3326f8f20d83d2b47.jpg"
+			]
+		},
+		{
+			"brand_id": 200001,
+			"brand_name":"ZHR女鞋",
+			"brand_ad":"今日大牌—ZHR女鞋集团",
+			"itemId": 200021,
+			"itme_name": "女凉鞋夏季女鞋中跟细跟尖头包头时尚女士凉鞋",
+			"new_price": 279,
+			"old_price": 349,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/7f40015da5207bf631a5309aef38960b.jpg",
+			"type": "女式凉鞋",
+			"typeid": 108,
+			"itemParams":{
+				"code": "X8BLBR295WFS",
+				"size": ["34", "35", "36", "37","38"],
+				"price": 279,
+				"style": "欧美包头",
+				"season": "夏",
+				"type": "女式凉鞋",
+				"color": "花色",
+				"fabric":"雪纺",
+				"material":"棉100%网布,聚酯纤维100%袋布,棉100%花边,聚酯纤维100%",
+				"occasion": "通勤",
+				"people": "通用",
+				"brand_name": "ZHR女鞋",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/565ab76f0f9480544664b1db7725da57.png",
+				"item_name":"女凉鞋夏季女鞋中跟细跟尖头包头时尚女士凉鞋"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/7f40015da5207bf631a5309aef38960b.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/3a9e1004f88a8f4fcc4bd72f9b1d26ab.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eca45011a764a2e4e2b82a4af921910b.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/7f40015da5207bf631a5309aef38960b.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/3a9e1004f88a8f4fcc4bd72f9b1d26ab.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eca45011a764a2e4e2b82a4af921910b.jpg"
+			]
+		},
+		{
+			"brand_id": 200001,
+			"brand_name":"ZHR女鞋",
+			"brand_ad":"今日大牌—ZHR女鞋集团",
+			"itemId": 200022,
+			"itme_name": "2019年夏季新款蛇皮中跟粗跟小方头时尚女凉鞋",
+			"new_price": 376,
+			"old_price": 418.6,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg",
+			"type": "女式凉鞋",
+			"typeid": 108,
+			"itemParams":{
+				"code": "X9BLBH416HE",
+				"size": ["34", "35", "36", "37","38","39"],
+				"price": 376,
+				"style": "欧美包头",
+				"season": "夏",
+				"type": "女式凉鞋",
+				"color": "花色",
+				"fabric":"雪纺",
+				"material":"棉100%网布,聚酯纤维100%袋布,棉100%花边,聚酯纤维100%",
+				"occasion": "通勤",
+				"people": "通用",
+				"brand_name": "ZHR女鞋",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/565ab76f0f9480544664b1db7725da57.png",
+				"item_name":"2019年夏季新款蛇皮中跟粗跟小方头时尚女凉鞋"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b077747e266acb58f8999810aa764517.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/8b9edc7044cd071df6fbf465af1e40e0.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b077747e266acb58f8999810aa764517.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/6d27e20e65594b2618b757d61123ab08.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/542365115e444ccf33dfd224e1c1f553.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg"
+			]
+		},
+		{
+			"brand_id": 200001,
+			"brand_name":"ZHR女鞋",
+			"brand_ad":"今日大牌—ZHR女鞋集团",
+			"itemId": 200023,
+			"itme_name": "2019年夏季新款蛇皮中跟粗跟小方头时尚女凉鞋",
+			"new_price": 376,
+			"old_price": 418.6,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg",
+			"type": "女式凉鞋",
+			"typeid": 108,
+			"itemParams":{
+				"code": "X9BLBH416HE",
+				"size": ["34", "35", "36", "37","38","39"],
+				"price": 376,
+				"style": "欧美包头",
+				"season": "夏",
+				"type": "女式凉鞋",
+				"color": "花色",
+				"fabric":"雪纺",
+				"material":"棉100%网布,聚酯纤维100%袋布,棉100%花边,聚酯纤维100%",
+				"occasion": "通勤",
+				"people": "通用",
+				"brand_name": "ZHR女鞋",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/565ab76f0f9480544664b1db7725da57.png",
+				"item_name":"2019年夏季新款蛇皮中跟粗跟小方头时尚女凉鞋"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b077747e266acb58f8999810aa764517.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/8b9edc7044cd071df6fbf465af1e40e0.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b077747e266acb58f8999810aa764517.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/6d27e20e65594b2618b757d61123ab08.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/542365115e444ccf33dfd224e1c1f553.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg"
+			]
+		},
+		{
+			"brand_id": 200001,
+			"brand_name":"ZHR女鞋",
+			"brand_ad":"今日大牌—ZHR女鞋集团",
+			"itemId": 200024,
+			"itme_name": "2019年夏季新款蛇皮中跟粗跟小方头时尚女凉鞋",
+			"new_price": 376,
+			"old_price": 418.6,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg",
+			"type": "女式凉鞋",
+			"typeid": 108,
+			"itemParams":{
+				"code": "X9BLBH416HE",
+				"size": ["34", "35", "36", "37","38","39"],
+				"price": 376,
+				"style": "欧美包头",
+				"season": "夏",
+				"type": "女式凉鞋",
+				"color": "花色",
+				"fabric":"雪纺",
+				"material":"棉100%网布,聚酯纤维100%袋布,棉100%花边,聚酯纤维100%",
+				"occasion": "通勤",
+				"people": "通用",
+				"brand_name": "ZHR女鞋",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/565ab76f0f9480544664b1db7725da57.png",
+				"item_name":"2019年夏季新款蛇皮中跟粗跟小方头时尚女凉鞋"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b077747e266acb58f8999810aa764517.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/8b9edc7044cd071df6fbf465af1e40e0.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b077747e266acb58f8999810aa764517.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/6d27e20e65594b2618b757d61123ab08.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/542365115e444ccf33dfd224e1c1f553.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg"
+			]
+		},
+		{
+			"brand_id": 200001,
+			"brand_name":"ZHR女鞋",
+			"brand_ad":"今日大牌—ZHR女鞋集团",
+			"itemId": 200025,
+			"itme_name": "2019年夏季新款蛇皮中跟粗跟小方头时尚女凉鞋",
+			"new_price": 376,
+			"old_price": 418.6,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg",
+			"type": "女式凉鞋",
+			"typeid": 108,
+			"itemParams":{
+				"code": "X9BLBH416HE",
+				"size": ["34", "35", "36", "37","38","39"],
+				"price": 376,
+				"style": "欧美包头",
+				"season": "夏",
+				"type": "女式凉鞋",
+				"color": "花色",
+				"fabric":"雪纺",
+				"material":"棉100%网布,聚酯纤维100%袋布,棉100%花边,聚酯纤维100%",
+				"occasion": "通勤",
+				"people": "通用",
+				"brand_name": "ZHR女鞋",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/565ab76f0f9480544664b1db7725da57.png",
+				"item_name":"2019年夏季新款蛇皮中跟粗跟小方头时尚女凉鞋"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b077747e266acb58f8999810aa764517.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/8b9edc7044cd071df6fbf465af1e40e0.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b077747e266acb58f8999810aa764517.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/6d27e20e65594b2618b757d61123ab08.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/542365115e444ccf33dfd224e1c1f553.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg"
+			]
+		},
+		{
+			"brand_id": 200001,
+			"brand_name":"ZHR女鞋",
+			"brand_ad":"今日大牌—ZHR女鞋集团",
+			"itemId": 200026,
+			"itme_name": "2019年夏季新款蛇皮中跟粗跟小方头时尚女凉鞋",
+			"new_price": 376,
+			"old_price": 418.6,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg",
+			"type": "女式凉鞋",
+			"typeid": 108,
+			"itemParams":{
+				"code": "X9BLBH416HE",
+				"size": ["34", "35", "36", "37","38","39"],
+				"price": 376,
+				"style": "欧美包头",
+				"season": "夏",
+				"type": "女式凉鞋",
+				"color": "花色",
+				"fabric":"雪纺",
+				"material":"棉100%网布,聚酯纤维100%袋布,棉100%花边,聚酯纤维100%",
+				"occasion": "通勤",
+				"people": "通用",
+				"brand_name": "ZHR女鞋",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/565ab76f0f9480544664b1db7725da57.png",
+				"item_name":"2019年夏季新款蛇皮中跟粗跟小方头时尚女凉鞋"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b077747e266acb58f8999810aa764517.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/8b9edc7044cd071df6fbf465af1e40e0.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b077747e266acb58f8999810aa764517.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/6d27e20e65594b2618b757d61123ab08.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/542365115e444ccf33dfd224e1c1f553.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg"
+			]
+		},
+		{
+			"brand_id": 200001,
+			"brand_name":"ZHR女鞋",
+			"brand_ad":"今日大牌—ZHR女鞋集团",
+			"itemId": 200027,
+			"itme_name": "2019年夏季新款蛇皮中跟粗跟小方头时尚女凉鞋",
+			"new_price": 376,
+			"old_price": 418.6,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg",
+			"type": "女式凉鞋",
+			"typeid": 108,
+			"itemParams":{
+				"code": "X9BLBH416HE",
+				"size": ["34", "35", "36", "37","38","39"],
+				"price": 376,
+				"style": "欧美包头",
+				"season": "夏",
+				"type": "女式凉鞋",
+				"color": "花色",
+				"fabric":"雪纺",
+				"material":"棉100%网布,聚酯纤维100%袋布,棉100%花边,聚酯纤维100%",
+				"occasion": "通勤",
+				"people": "通用",
+				"brand_name": "ZHR女鞋",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/565ab76f0f9480544664b1db7725da57.png",
+				"item_name":"2019年夏季新款蛇皮中跟粗跟小方头时尚女凉鞋"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b077747e266acb58f8999810aa764517.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/8b9edc7044cd071df6fbf465af1e40e0.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b077747e266acb58f8999810aa764517.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/6d27e20e65594b2618b757d61123ab08.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/542365115e444ccf33dfd224e1c1f553.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg"
+			]
+		},
+		{
+			"brand_id": 200001,
+			"brand_name":"ZHR女鞋",
+			"brand_ad":"今日大牌—ZHR女鞋集团",
+			"itemId": 200028,
+			"itme_name": "2019年夏季新款蛇皮中跟粗跟小方头时尚女凉鞋",
+			"new_price": 376,
+			"old_price": 418.6,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg",
+			"type": "女式凉鞋",
+			"typeid": 108,
+			"itemParams":{
+				"code": "X9BLBH416HE",
+				"size": ["34", "35", "36", "37","38","39"],
+				"price": 376,
+				"style": "欧美包头",
+				"season": "夏",
+				"type": "女式凉鞋",
+				"color": "花色",
+				"fabric":"雪纺",
+				"material":"棉100%网布,聚酯纤维100%袋布,棉100%花边,聚酯纤维100%",
+				"occasion": "通勤",
+				"people": "通用",
+				"brand_name": "ZHR女鞋",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/565ab76f0f9480544664b1db7725da57.png",
+				"item_name":"2019年夏季新款蛇皮中跟粗跟小方头时尚女凉鞋"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b077747e266acb58f8999810aa764517.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/8b9edc7044cd071df6fbf465af1e40e0.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b077747e266acb58f8999810aa764517.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/6d27e20e65594b2618b757d61123ab08.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/542365115e444ccf33dfd224e1c1f553.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg"
+			]
+		},
+		{
+			"brand_id": 200001,
+			"brand_name":"ZHR女鞋",
+			"brand_ad":"今日大牌—ZHR女鞋集团",
+			"itemId": 200028,
+			"itme_name": "2019年夏季新款蛇皮中跟粗跟小方头时尚女凉鞋",
+			"new_price": 376,
+			"old_price": 418.6,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg",
+			"type": "女式凉鞋",
+			"typeid": 108,
+			"itemParams":{
+				"code": "X9BLBH416HE",
+				"size": ["34", "35", "36", "37","38","39"],
+				"price": 376,
+				"style": "欧美包头",
+				"season": "夏",
+				"type": "女式凉鞋",
+				"color": "花色",
+				"fabric":"雪纺",
+				"material":"棉100%网布,聚酯纤维100%袋布,棉100%花边,聚酯纤维100%",
+				"occasion": "通勤",
+				"people": "通用",
+				"brand_name": "ZHR女鞋",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/565ab76f0f9480544664b1db7725da57.png",
+				"item_name":"2019年夏季新款蛇皮中跟粗跟小方头时尚女凉鞋"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b077747e266acb58f8999810aa764517.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/8b9edc7044cd071df6fbf465af1e40e0.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/ac9fd2771f4d7966af0e11b0b5b7b6c9.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b077747e266acb58f8999810aa764517.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/6d27e20e65594b2618b757d61123ab08.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/542365115e444ccf33dfd224e1c1f553.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg"
+			]
+		},
+		{
+			"brand_id": 200001,
+			"brand_name":"ZHR女鞋",
+			"brand_ad":"今日大牌—ZHR女鞋集团",
+			"itemId": 200029,
+			"itme_name": "2019年夏季新款蛇皮中跟粗跟小方头时尚女凉鞋",
+			"new_price": 376,
+			"old_price": 418.6,
+			"src": "http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/7c7a209119ea22094cdd4d47fabd6435.jpg",
+			"type": "女式凉鞋",
+			"typeid": 108,
+			"itemParams":{
+				"code": "X9BLBH416HE",
+				"size": ["34", "35", "36", "37","38","39"],
+				"price": 376,
+				"style": "欧美包头",
+				"season": "夏",
+				"type": "女式凉鞋",
+				"color": "花色",
+				"fabric":"雪纺",
+				"material":"棉100%网布,聚酯纤维100%袋布,棉100%花边,聚酯纤维100%",
+				"occasion": "通勤",
+				"people": "通用",
+				"brand_name": "ZHR女鞋",
+				"sizeImg":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/565ab76f0f9480544664b1db7725da57.png",
+				"item_name":"2019年夏季新款蛇皮中跟粗跟小方头时尚女凉鞋"
+			},
+			"imgshow":[
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/7c7a209119ea22094cdd4d47fabd6435.jpg","show":true},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b077747e266acb58f8999810aa764517.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg","show":false},
+				{"img":"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/8b9edc7044cd071df6fbf465af1e40e0.jpg","show":false}
+			],
+			"imgdisplay":[
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/7c7a209119ea22094cdd4d47fabd6435.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/b077747e266acb58f8999810aa764517.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/6d27e20e65594b2618b757d61123ab08.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/542365115e444ccf33dfd224e1c1f553.jpg",
+				"http://aa1bdba5cb9975be6631.test.upcdn.net/apicloud/eb4cd21b5ab2c093ff7a8141bebe5b29.jpg"
+			]
+		}
+	]
+}
+
+
+
