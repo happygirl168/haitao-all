@@ -42,7 +42,7 @@
 								</div>
 								<div class="address-form-row">
 									<div class="form-item" @click="saveAdress()">
-										<a href="javascript:void(0)">保存</a>
+										<span>保存</span>
 									</div>
 								</div>
 							</div>
@@ -136,6 +136,14 @@
 				this.showMask = false;
 			},
 			saveAdress(){
+				/*this.Item.push(
+					{
+					addrId:this.id++,
+					name:this.username,
+					tel:this.telphone,
+					province:this.province,
+					address:this.address
+				})*/
 				this.Item.push({
 					addrId:this.id++,
 					name:this.username,
@@ -143,6 +151,7 @@
 					province:this.province,
 					address:this.address
 				})
+				
 				this.showMask = false;
 				storage.set('addrList',this.Item);
 				
@@ -169,8 +178,11 @@
 			var list = storage.get('listinfo');
 			this.list = JSON.parse(list);
 			var item = storage.get('addrList');
-			this.Item = item;
-			console.log("item--"+JSON.stringify(item))
+			if(item){
+				this.Item = item;
+			}
+			
+			console.log("item--"+JSON.stringify(this.Item));
 		}
 	}
 </script>
@@ -262,7 +274,7 @@
 		right: 12px;
 		z-index: 998;
 	}
-	.form-item a{
+	.form-item span{
 		display: block;
 		width: 370px;
 		height: 40px;

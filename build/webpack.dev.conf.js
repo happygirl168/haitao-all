@@ -10,6 +10,14 @@ const HtmlWebpackPlugin = require('html-webpack-plugin')
 const FriendlyErrorsPlugin = require('friendly-errors-webpack-plugin')
 const portfinder = require('portfinder')
 
+/*const express = require('express')
+const app = express()
+const appData = require('../static/item.json') // 加载本地json文件
+const shopinfo = appData.shopinfo // 获取对应本地数据
+const apiRoutes = express.Router()
+app.use('/api',apiRoutes)*/
+
+
 const HOST = process.env.HOST
 const PORT = process.env.PORT && Number(process.env.PORT)
 
@@ -42,7 +50,18 @@ const devWebpackConfig = merge(baseWebpackConfig, {
     quiet: true, // necessary for FriendlyErrorsPlugin
     watchOptions: {
       poll: config.dev.poll,
-    }
+    },
+    
+//然后找到devSeerver，在里面添加
+/* before (app) {
+  app.get('/api/shopinfo',(req,res)=>{
+   res.json({
+    errno: 0,
+    data: shopinfo
+   }) // 接口返回json数据，上面配置的数据goods就复制给data请求后调用
+  })
+ }*/
+
   },
   plugins: [
     new webpack.DefinePlugin({

@@ -217,9 +217,12 @@
 			},
 			fetchData(){
 				//取出了shopdata.json里面的数据
-				let localApi = "../static/item.json";
-				this.$http.get(localApi).then((response) => {
+				//let localApi = "../static/item.json";
+				this.$http.get('../static/item.json').then((response) => {
+					/*这种方式是用webpack.conf.js的配置实现的方法
+					this.list =response.body.data;*/
 					this.list =response.body.shopinfo;
+					console.log("新方法--数据---"+JSON.stringify(this.list));
 					//过滤数据，根据当前id获取相应的商品信息
 					this.info = this.list.filter((item) => {
 		        			return item.itemId == this.$route.query.id
@@ -230,6 +233,22 @@
 				}, (Error) => {
 					console.log(Error);
 				})
+				/*var me = this;
+				$.ajax({
+					type:"get",
+					url:"/api/shopinfo",
+					async:true,	
+					success:function(res){
+						me.list =res.data;
+						console.log("ajax--数据---"+JSON.stringify(res));
+						me.info = me.list.filter((item) => {
+		        			return item.itemId == me.$route.query.id
+		     		 })[0]
+		     		// 把获取的数据的imgshow数据存放在store中
+					me.$store.commit('storeItemInfo',me.info.imgshow);
+		     		console.log("info----"+JSON.stringify(me.info));	
+					}
+				});*/
 			},
 			getUrl(imgShow,key){
 				//取出store里面的数据

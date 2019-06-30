@@ -113,7 +113,7 @@
 						if(index == -1){
 							alert("该用户还没注册，请先注册")
 						}else{
-							sessionStorage.setItem('loginUser',username);                                                                                                                                               
+							storage.set('loginUser',username);                                                                                                                                               
 							this.$store.commit('saveuser',username);
 							this.$router.push({path:'/index'})
 						}

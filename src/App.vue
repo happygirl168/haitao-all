@@ -131,15 +131,15 @@ export default {
 							return username == user.username;
 					})
 					if(findIndex != -1){
-					//	storage.set('loginUser',username);    
-						sessionStorage.setItem('loginUser',username);    
+						storage.set('loginUser',username);    
+						
 						this.$store.commit('saveuser',username);
 						//关闭遮罩层
 						this.maskShow = false;
 //						console.log("username---"+username); 
 //						console.log("state---"+this.$store.state.username);
-					//	var uname = storage.get('loginUser');
-					var uname = sessionStorage.getItem('loginUser');
+						var uname = storage.get('loginUser');
+					//var uname = sessionStorage.getItem('loginUser');
     				this.uname = uname;
 						//眺往首页
 						this.$router.push({path:'/index'})
@@ -177,7 +177,7 @@ export default {
 					this.uname = "";
 					this.$router.push({path:'/login'})
 					storage.set('userInfo',this.User);
-					sessionStorage.setItem('loginUser',this.uname)
+					storage.set('loginUser',username); 
 					console.log("注册的用户信息---"+JSON.stringify(this.User))
 			}
     },
@@ -189,7 +189,7 @@ export default {
     	if(UserInfo){
     		this.User = UserInfo;
     	}
-    	var uname = 	sessionStorage.getItem('loginUser');
+    	var uname = 	storage.get('loginUser');
     	this.uname = uname;
     	console.log("获取的注册用户信息--"+JSON.stringify(this.User));
     	console.log("登录的用户---"+JSON.stringify(sessionStorage.getItem('loginUser')));
@@ -198,7 +198,7 @@ export default {
 				clearInterval(this.timer);
 			}else{
 				this.timer = setInterval(()=>{
-					var uname = sessionStorage.getItem('loginUser');
+					var uname = storage.get('loginUser');
     			this.uname = uname;
 				},1000)
 			}
