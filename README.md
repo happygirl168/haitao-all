@@ -4,6 +4,9 @@
 
 ## Build Setup
 
+#项目预览效果：
+https://happygirl168.github.io/haitao-all/dist/index.html
+
 ``` bash
 # install dependencies
 npm install
